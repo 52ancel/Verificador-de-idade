@@ -1,2 +1,2 @@
 # aprendendoJS
-Repositório com test, pratica e resolução de exercícios de JavaScript. Nível básico iniciante.
+Resolução de exercícios de JavaScript. Nível básico iniciante. -Curso em video, aula 12.
